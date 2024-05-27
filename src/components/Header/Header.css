@@ -1,0 +1,9 @@
+.headersItem {
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    margin-right: 75px; 
+}
+.headersItem:hover {
+    color: pink;
+}
